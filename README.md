@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+EcoStride: Inovação em Calçados de Alta Performance 👟✨
+📒 Descrição
+O EcoStride é um conceito de calçado futurista projetado para atletas de alto nível. O projeto utiliza IAs Generativas para criar um protótipo visual de um tênis feito de materiais biomiméticos que se adaptam dinamicamente à temperatura do pé. Este projeto explora como a IA pode acelerar o processo de design e prototipagem industrial na indústria de moda esportiva.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+Google Gemini: Utilizado para a concepção do produto, roteirização do conceito e refinamento dos prompts.
 
-> Woooow! Look at this 👀
+Ferramenta de Geração de Vídeo (IA): Utilizada para a criação do material visual (o protótipo do tênis) com base em descrições técnicas detalhadas.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+Brainstorming: Definição das propriedades do calçado, focando em sustentabilidade e biomimética.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Prompt Engineering: Criação de comandos focados em texturas orgânicas e iluminação realista para garantir o aspecto "Natty" (natural e real).
 
-### Objetivos
+Iteração: O processo exigiu ajustes nos prompts para garantir que a IA retratasse com precisão um tênis de performance em vez de objetos genéricos, focando em detalhes de estrutura e materiais.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Finalização: Criação do vídeo demonstrativo para uso em apresentações de pitch de inovação.
 
-### Template
+🚀 Resultados
+O resultado é um vídeo cinematográfico de alta fidelidade que apresenta o EcoStride como um produto real. A estética visual demonstra como a tecnologia de IA pode criar ativos de marketing e design industrial de alta qualidade com um custo e tempo de produção reduzidos.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Clique aqui para assistir ao vídeo do EcoStride
+https://share.gemini.google/vPbO9EqfHnRa
 
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
+💭 Reflexão
+O maior desafio deste Lab foi manter o controle sobre o "realismo" da IA. Enquanto ferramentas generativas tendem a criar visuais impressionantes, garantir a fidelidade a um design específico exige um trabalho minucioso de ajuste fino (refinamento de prompts). Essa experiência reforça que a IA é uma ferramenta poderosa, mas que o papel do humano como "diretor" do processo é o que define o sucesso da entrega final.
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
